@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/testReact-ed/static/css/main.a4ba085d.css",
+    "main.js": "/testReact-ed/static/js/main.7efcd10e.js",
+    "static/js/787.91126f41.chunk.js": "/testReact-ed/static/js/787.91126f41.chunk.js",
+    "static/media/sign.png": "/testReact-ed/static/media/sign.55bec8eb31c7322ae480.png",
+    "static/media/Shikoku.jpg": "/testReact-ed/static/media/Shikoku.a47a0d97e9086458bcbb.jpg",
+    "static/media/ornament.png": "/testReact-ed/static/media/ornament.2ddb0373e7a6a1b0e4c2.png",
+    "static/media/Kyushu.jpg": "/testReact-ed/static/media/Kyushu.dcffe3207eea8f50a9b3.jpg",
+    "static/media/Kanto.jpg": "/testReact-ed/static/media/Kanto.d428f4c08ebeb19d5c79.jpg",
+    "static/media/Kinki.jpg": "/testReact-ed/static/media/Kinki.fa52217ef9f7f9d2c42e.jpg",
+    "static/media/Hokkaido.jpg": "/testReact-ed/static/media/Hokkaido.eed0227763b903341668.jpg",
+    "static/media/Chubu.jpg": "/testReact-ed/static/media/Chubu.ef166e1a755c0ebde090.jpg",
+    "static/media/Tohoku.jpg": "/testReact-ed/static/media/Tohoku.1cba79e493d6b95111f8.jpg",
+    "static/media/Chugoku.jpg": "/testReact-ed/static/media/Chugoku.e454a95d903abb274db0.jpg",
+    "static/media/fuji0.png": "/testReact-ed/static/media/fuji0.f4fbe2a283817f45ef6d.png",
+    "index.html": "/testReact-ed/index.html",
+    "main.a4ba085d.css.map": "/testReact-ed/static/css/main.a4ba085d.css.map",
+    "main.7efcd10e.js.map": "/testReact-ed/static/js/main.7efcd10e.js.map",
+    "787.91126f41.chunk.js.map": "/testReact-ed/static/js/787.91126f41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4ba085d.css",
+    "static/js/main.7efcd10e.js"
+  ]
+}
